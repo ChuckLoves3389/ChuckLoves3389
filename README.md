@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ChuckLoves3389
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning C++ & Python
-- 📫 How to reach me @jailuser
+- 📫 How to reach me @palera11n
+  
 - 😄 Pronouns: he him
 - ⚡ Fun fact: i want to work in United States of America
 <!---
